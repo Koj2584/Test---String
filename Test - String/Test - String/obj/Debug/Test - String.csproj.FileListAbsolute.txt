@@ -1,0 +1,10 @@
+G:\Dokumenty\Test - String\Test - String\bin\Debug\Test - String.exe.config
+G:\Dokumenty\Test - String\Test - String\bin\Debug\Test - String.exe
+G:\Dokumenty\Test - String\Test - String\bin\Debug\Test - String.pdb
+G:\Dokumenty\Test - String\Test - String\obj\Debug\Test - String.csprojAssemblyReference.cache
+G:\Dokumenty\Test - String\Test - String\obj\Debug\Test___String.Form1.resources
+G:\Dokumenty\Test - String\Test - String\obj\Debug\Test___String.Properties.Resources.resources
+G:\Dokumenty\Test - String\Test - String\obj\Debug\Test - String.csproj.GenerateResource.cache
+G:\Dokumenty\Test - String\Test - String\obj\Debug\Test - String.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Test - String\Test - String\obj\Debug\Test - String.exe
+G:\Dokumenty\Test - String\Test - String\obj\Debug\Test - String.pdb
